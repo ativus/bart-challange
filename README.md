@@ -33,7 +33,7 @@ Fique a vontade para criar qualquer classe, interface ou enum que precisar.
 Faça novos testes.
 Quanto mais Orientado a Objetos melhor.
 
-Ao finalizar, envie o link do seu repositório para eduardo@bartdigital.com.br.
+Ao finalizar, envie o link do seu repositório para sutil@bartdigital.com.br.
 
 Observação: A classe Displayer já foi criada.
 
